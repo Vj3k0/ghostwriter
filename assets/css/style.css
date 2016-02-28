@@ -143,6 +143,11 @@ table {
   position: relative;
   width: 100%;
   max-width: 889px; }
+  
+#mc_embed_signup {
+  width:100%;
+  margin: 35px auto 35px;
+}
 
 #wrapper {
   height: auto;
@@ -448,7 +453,7 @@ table {
   margin-top: 95px;
   overflow: auto; }
   .footer .site-title-wrapper {
-    margin: 80px auto 35px; }
+    margin: 35px auto 35px; }
   .footer .site-title a:hover,
   .footer .button-square:hover {
     background: #121212; }
